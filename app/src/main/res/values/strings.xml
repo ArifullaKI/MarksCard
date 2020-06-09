@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MarksCard</string>
+    <string name="aditya_pareek">Aditya Pareek</string>
+    <string name="arifulla_k_i">Arifulla K I</string>
+    <string name="kartik_ganesh">Kartik Ganesh</string>
+    <string name="mustafa_hussain">Mustafa Hussain</string>
+    <string name="student_list">STUDENT LIST</string>
+    <string name="marks_card">Marks Card</string>
+    <string name="subject">Subject</string>
+    <string name="marks">Total Marks</string>
+    <string name="marks_achived">Marks</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="32dp"
+        android:text="@string/student_list"
+        android:textAlignment="center"
+        android:textSize="32sp"
+        />
+    <TextView
+        style="@style/studentList"
+        android:text="@string/arifulla_k_i"
+        android:id="@+id/arif"
+        android:gravity="center"
+        />
+    <TextView
+        style="@style/studentList"
+        android:text="@string/aditya_pareek"
+        android:id="@+id/aditya"
+        android:gravity="center"/>
+    <TextView
+        style="@style/studentList"
+        android:text="@string/kartik_ganesh"
+        android:id="@+id/kartik"
+        android:gravity="center"/>
+    <TextView
+        style="@style/studentList"
+        android:text="@string/mustafa_hussain"
+        android:id="@+id/mustafa"
+        android:gravity="center"/>
+
+</LinearLayout>
